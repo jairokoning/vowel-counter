@@ -7,6 +7,7 @@
 <p align="center">
   <img alt="" src="src/assets/readme-preview2.png" width="100%">
 </p>
+
 ## 🚀 Challenge
 Create a function that counts the number of vowels in a string. The program should ask the user for a sentence and display how many vowels it has.
 
